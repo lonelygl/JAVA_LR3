@@ -422,7 +422,7 @@ public class Elevator implements Runnable {
         GuiLogger.log("Статистика лифта " + id);
         GuiLogger.log("Обслужено пассажиров: " + passengersServed);
         GuiLogger.log("Всего остановок: " + totalStops);
-        
+
     }
 
     /* отображение статуса в GUI */
